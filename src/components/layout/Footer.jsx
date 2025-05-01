@@ -99,12 +99,12 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <ul className="space-y-2">
               <li className="text-slate-400">
-                123 Innovation Drive
+                260/B, Nabisco
                 <br />
-                San Francisco, CA 94105
+                Dhaka, Bangladesh
               </li>
               <li className="text-slate-400">info@lostechnologies.com</li>
-              <li className="text-slate-400">+1 (415) 555-0123</li>
+              <li className="text-slate-400">+8801720-000191</li>
             </ul>
           </div>
         </div>
